@@ -1,0 +1,107 @@
+body{
+	background-color: lightpink;
+	font-family: serif;
+	text-align: center;
+}
+
+.btn-blue {
+background-color:#99154E;
+color: floralwhite;
+padding: 6px 20px;
+border-radius: 4px;
+}
+
+h1 {
+	color: skyblue;
+	letter-spacing: 2px;
+	font-size: 40px;
+}
+a {
+  color: lightpink;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: lightgreen;
+  text-decoration: none;
+}
+
+.profile {
+	border-radius: 30%;
+	width: auto;
+	height: 100px;
+}
+#intro {
+	background-color: floralwhite;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+
+
+}
+
+#intro p {
+margin-bottom: 30px;
+
+}
+#section2 {
+background-color: floralwhite;
+
+}
+
+#section3 {
+background-color: #floralwhite;
+
+}
+
+#section4 {
+background-color: #floralwhite;
+
+}
+
+#section5 {
+background-color: #floralwhite;
+
+}
+.font-styles {
+	margin-bottom: 5px;
+	justify-content: center;
+	border-radius: 1px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+	margin: 180px;
+	border: 2px solid;
+	padding: 9px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 30px;
+	color: #FFDDCC;
+}
+
+.list-inline i:hover {
+	color: #99154E;
+}
+
+#section4 {
+  text-align: center;
+
+}
+
+.elfsight-app-834d7745-25fa-4065-b200-c209efd16b5d {
+  margin: 0 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
